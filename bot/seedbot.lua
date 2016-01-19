@@ -218,6 +218,8 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+    "plugins",
+    "cpu",
     "all",
     "leave_ban"
     },
